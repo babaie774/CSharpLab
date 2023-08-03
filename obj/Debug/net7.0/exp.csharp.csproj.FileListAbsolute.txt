@@ -1,0 +1,15 @@
+C:\Users\THIS-PC\Documents\exp.csharp\bin\Debug\net7.0\exp.csharp.exe
+C:\Users\THIS-PC\Documents\exp.csharp\bin\Debug\net7.0\exp.csharp.deps.json
+C:\Users\THIS-PC\Documents\exp.csharp\bin\Debug\net7.0\exp.csharp.runtimeconfig.json
+C:\Users\THIS-PC\Documents\exp.csharp\bin\Debug\net7.0\exp.csharp.dll
+C:\Users\THIS-PC\Documents\exp.csharp\bin\Debug\net7.0\exp.csharp.pdb
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.csproj.AssemblyReference.cache
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.AssemblyInfoInputs.cache
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.AssemblyInfo.cs
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.csproj.CoreCompileInputs.cache
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.dll
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\refint\exp.csharp.dll
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.pdb
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\exp.csharp.genruntimeconfig.cache
+C:\Users\THIS-PC\Documents\exp.csharp\obj\Debug\net7.0\ref\exp.csharp.dll

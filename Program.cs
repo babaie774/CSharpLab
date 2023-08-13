@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace controlApp1 
 {
@@ -14,16 +18,28 @@ class Program
 
         int a;
         int b;
-        int c = a + b;
-
+    try {
         Console.WriteLine("inter Number:");
         a = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("inter Number:");
         b = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(c);
+        Console.WriteLine(a+b);
+    } catch(FormatException) {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("formatException");
+        Console.ResetColor();
+    } catch(SqlException) {
+        Console.WriteLine("sqlException");
+    } catch {
+         Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("please just write number");
+        Console.ResetColor();
+    } finally {
+        Console.WriteLine("finished!");
+    }
     }
 } 
-class Iman 
-{
-}
+    class Iman 
+    {
+    }
 }

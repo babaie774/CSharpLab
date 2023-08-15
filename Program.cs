@@ -9,12 +9,9 @@ namespace controlApp1
 {
     class Program {
         static void Main(string[] args) {
-            checked
-            {
-                // byte number = 255;
-                // number = number + 1;
-                int number = 0;
-                Console.WriteLine(number + " " + byte.MinValue + " " + byte.MaxValue);
+            int a = 1;
+            if(a == 1) {
+                Console.WriteLine("OK");
             }
         }
     } 

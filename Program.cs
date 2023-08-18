@@ -9,12 +9,11 @@ namespace Program
 {
     class Program {
         static void Main(string[] args) {
-            // HelloUser();
-            // HelloUser("alireza");
-            // Console.WriteLine(Sum(1,2));
-            // Console.WriteLine(FullName("alireza","babaei"));
-            int sum = MyClass.Sum(1,2);
-            Console.WriteLine(sum);
+            HelloUser();
+            HelloUser("alireza");
+            Console.WriteLine(Sum(1,2));
+            string fullName = FullName.FullNameGenerator();
+            Console.WriteLine(fullName);
 
         }
         static void HelloUser() {
@@ -28,10 +27,6 @@ namespace Program
 
         static int Sum(int a,int b) {
             return a + b;
-        }
-
-        static string FullName(string firstName = "ahmad", string lastName = "jalil") {
-            return firstName + " " + lastName;
         }
     }
 }

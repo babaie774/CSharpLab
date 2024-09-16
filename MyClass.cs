@@ -24,5 +24,4 @@ namespace Program {
                 return FullName;
             }
         }
-
 }
